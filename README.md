@@ -1,3 +1,2 @@
 # Python
-http://kingof7.pythonanywhere.com/admin/
-
+# https://kingof7.pythonanywhere.com/admin
